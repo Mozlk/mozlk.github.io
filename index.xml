@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XJK on XJK</title>
-    <link>https://nither.gitee.io/</link>
+    <link>https://mozlk.github.io/</link>
     <description>Recent content in XJK on XJK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 12 Jul 2019 10:20:40 +0800</lastBuildDate>
-    <atom:link href="https://nither.gitee.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mozlk.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://nither.gitee.io/about/</link>
+      <link>https://mozlk.github.io/about/</link>
       <pubDate>Fri, 12 Jul 2019 10:20:40 +0800</pubDate>
       
-      <guid>https://nither.gitee.io/about/</guid>
+      <guid>https://mozlk.github.io/about/</guid>
       <description>
 
 &lt;h3 id=&#34;wtf&#34;&gt;WTF&lt;/h3&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Fires</title>
-      <link>https://nither.gitee.io/blog/fires/</link>
+      <link>https://mozlk.github.io/blog/fires/</link>
       <pubDate>Fri, 12 Jul 2019 10:15:03 +0800</pubDate>
       
-      <guid>https://nither.gitee.io/blog/fires/</guid>
+      <guid>https://mozlk.github.io/blog/fires/</guid>
       <description>
 
 &lt;h1 id=&#34;akeneo-pim-community-standard-edition&#34;&gt;Akeneo PIM Community Standard Edition&lt;/h1&gt;

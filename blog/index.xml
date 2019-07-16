@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on XJK</title>
-    <link>https://nither.gitee.io/blog/</link>
+    <link>https://mozlk.github.io/blog/</link>
     <description>Recent content in Blogs on XJK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 12 Jul 2019 10:15:03 +0800</lastBuildDate>
     
-	<atom:link href="https://nither.gitee.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mozlk.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fires</title>
-      <link>https://nither.gitee.io/blog/fires/</link>
+      <link>https://mozlk.github.io/blog/fires/</link>
       <pubDate>Fri, 12 Jul 2019 10:15:03 +0800</pubDate>
       
-      <guid>https://nither.gitee.io/blog/fires/</guid>
+      <guid>https://mozlk.github.io/blog/fires/</guid>
       <description>Akeneo PIM Community Standard Edition Welcome to Akeneo PIM Product.
 This repository is used to create a new PIM project based on Akeneo PIM.
 If you want to contribute to the Akeneo PIM (and we will be pleased if you do!), you can fork the repository https://github.com/akeneo/pim-community-dev and submit a pull request.
